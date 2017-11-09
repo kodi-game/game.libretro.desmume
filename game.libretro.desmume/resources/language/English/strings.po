@@ -89,38 +89,42 @@ msgid "Pointer Colour"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Pointer emulation"
-msgstr ""
-
-msgctxt "#30019"
 msgid "Emulated pointer acceleration modifier percent"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30019"
 msgid "Emulated pointer deadzone percent"
 msgstr ""
 
+msgctxt "#30020"
+msgid "Pointer mode l-analog"
+msgstr ""
+
 msgctxt "#30021"
-msgid "Enable mouse/pointer"
+msgid "Pointer mode r-analog"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Enable emulated stylus jitter"
+msgid "Enable mouse/pointer"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Emulated stylus pressure modifier percent"
+msgid "Enable emulated stylus jitter"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Pointer type"
+msgid "Emulated stylus pressure modifier percent"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Screen Gap"
+msgid "Pointer type"
 msgstr ""
 
 msgctxt "#30026"
+msgid "Screen Gap"
+msgstr ""
+
+msgctxt "#30027"
 msgid "Screen layout"
 msgstr ""
 
