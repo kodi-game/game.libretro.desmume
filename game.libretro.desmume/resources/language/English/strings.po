@@ -25,15 +25,15 @@ msgid "Enable Advanced Bus-Level Timing"
 msgstr ""
 
 msgctxt "#30002"
-msgid "OpenGL Color Depth (restart)"
+msgid "OpenGL: Color Depth (restart)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "CPU mode"
+msgid "CPU Mode"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Firmware language"
+msgid "Firmware Language"
 msgstr ""
 
 msgctxt "#30005"
@@ -41,19 +41,19 @@ msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Enable Edgemark"
+msgid "Edge Marking"
 msgstr ""
 
 msgctxt "#30007"
-msgid "High Resolution interpolate colors"
+msgid "Soft3D: High-res Color Interpolation"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Enable Line Hack"
+msgid "Soft3D: Line Hack"
 msgstr ""
 
 msgctxt "#30009"
-msgid "OpenGL Multisampling (restart)"
+msgid "OpenGL: Multisampling (restart)"
 msgstr ""
 
 msgctxt "#30010"
@@ -65,35 +65,35 @@ msgid "Texture Scaling (xBrz)"
 msgstr ""
 
 msgctxt "#30012"
-msgid "OpenGL Enable texture smoothing"
+msgid "OpenGL: Texture Smoothing"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Enable TXT Hack"
+msgid "Soft3D: Texture Hack"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Hybrid layout cursor always on small screen"
+msgid "Hybrid Layout: Cursor Always on Small Screen"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Hybrid layout scale (restart)"
+msgid "Hybrid Layout: Scale (restart)"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Hybrid layout show both screens"
+msgid "Hybrid Layout: Show Both Screens"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Internal resolution (restart)"
+msgid "Internal Resolution (restart)"
 msgstr ""
 
 msgctxt "#30018"
-msgid "JIT block size"
+msgid "JIT Block Size"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Load Game into Memory (restart)"
+msgid "Load Game Into Memory (restart)"
 msgstr ""
 
 msgctxt "#30020"
@@ -105,7 +105,7 @@ msgid "Microphone Simulation Settings"
 msgstr ""
 
 msgctxt "#30022"
-msgid "CPU cores"
+msgid "CPU Cores"
 msgstr ""
 
 msgctxt "#30023"
@@ -117,42 +117,38 @@ msgid "Pointer Colour"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Emulated pointer acceleration modifier percent"
+msgid "Emulated Pointer Acceleration Modifier Percent"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Emulated pointer deadzone percent"
+msgid "Emulated Pointer Deadzone Percent"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Pointer mode l-analog"
+msgid "Pointer Mode for Left Analog"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Pointer mode r-analog"
+msgid "Pointer Mode for Right Analog"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Enable mouse/pointer"
+msgid "Mouse/Pointer"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Enable emulated stylus jitter"
+msgid "Emulated Stylus Pressure Modifier Percent"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Emulated stylus pressure modifier percent"
+msgid "Pointer Type"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Pointer type"
-msgstr ""
-
-msgctxt "#30033"
 msgid "Screen Gap"
 msgstr ""
 
-msgctxt "#30034"
-msgid "Screen layout"
+msgctxt "#30033"
+msgid "Screen Layout"
 msgstr ""
 
