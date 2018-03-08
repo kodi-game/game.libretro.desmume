@@ -105,50 +105,54 @@ msgid "Microphone Simulation Settings"
 msgstr ""
 
 msgctxt "#30022"
-msgid "CPU Cores"
+msgid "Mouse Speed"
 msgstr ""
 
 msgctxt "#30023"
-msgid "OpenGL Rasterizer (restart)"
+msgid "CPU Cores"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Pointer Colour"
+msgid "OpenGL Rasterizer (restart)"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Emulated Pointer Acceleration Modifier Percent"
+msgid "Pointer Colour"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Emulated Pointer Deadzone Percent"
+msgid "Emulated Pointer Acceleration Modifier Percent"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Pointer Mode for Left Analog"
+msgid "Emulated Pointer Deadzone Percent"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Pointer Mode for Right Analog"
+msgid "Pointer Mode for Left Analog"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Mouse/Pointer"
+msgid "Pointer Mode for Right Analog"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Emulated Stylus Pressure Modifier Percent"
+msgid "Mouse/Pointer"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Pointer Type"
+msgid "Emulated Stylus Pressure Modifier Percent"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Screen Gap"
+msgid "Pointer Type"
 msgstr ""
 
 msgctxt "#30033"
+msgid "Screen Gap"
+msgstr ""
+
+msgctxt "#30034"
 msgid "Screen Layout"
 msgstr ""
 
