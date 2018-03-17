@@ -25,134 +25,142 @@ msgid "Enable Advanced Bus-Level Timing"
 msgstr ""
 
 msgctxt "#30002"
-msgid "OpenGL: Color Depth (restart)"
+msgid "Boot Into BIOS (interpreter and external bios only)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "CPU Mode"
+msgid "OpenGL: Color Depth (restart)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Firmware Language"
+msgid "CPU Mode"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Frameskip"
+msgid "Firmware Language"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Edge Marking"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Soft3D: High-res Color Interpolation"
+msgid "Edge Marking"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Soft3D: Line Hack"
+msgid "Soft3D: High-res Color Interpolation"
 msgstr ""
 
 msgctxt "#30009"
-msgid "OpenGL: Multisampling (restart)"
+msgid "Soft3D: Line Hack"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Texture Deposterization"
+msgid "OpenGL: Multisampling (restart)"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Texture Scaling (xBrz)"
+msgid "Texture Deposterization"
 msgstr ""
 
 msgctxt "#30012"
-msgid "OpenGL: Texture Smoothing"
+msgid "Texture Scaling (xBrz)"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Soft3D: Texture Hack"
+msgid "OpenGL: Texture Smoothing"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Hybrid Layout: Cursor Always on Small Screen"
+msgid "Soft3D: Texture Hack"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Hybrid Layout: Scale (restart)"
+msgid "Hybrid Layout: Cursor Always on Small Screen"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Hybrid Layout: Show Both Screens"
+msgid "Hybrid Layout: Scale (restart)"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Internal Resolution (restart)"
+msgid "Hybrid Layout: Show Both Screens"
 msgstr ""
 
 msgctxt "#30018"
-msgid "JIT Block Size"
+msgid "Internal Resolution (restart)"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Load Game Into Memory (restart)"
+msgid "JIT Block Size"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Force Microphone Enable"
+msgid "Load Game Into Memory (restart)"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Microphone Simulation Settings"
+msgid "Force Microphone Enable"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Mouse Speed"
+msgid "Microphone Simulation Settings"
 msgstr ""
 
 msgctxt "#30023"
-msgid "CPU Cores"
+msgid "Mouse Speed"
 msgstr ""
 
 msgctxt "#30024"
-msgid "OpenGL Rasterizer (restart)"
+msgid "CPU Cores"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Pointer Colour"
+msgid "OpenGL Rasterizer (restart)"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Emulated Pointer Acceleration Modifier Percent"
+msgid "Pointer Colour"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Emulated Pointer Deadzone Percent"
+msgid "Emulated Pointer Acceleration Modifier Percent"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Pointer Mode for Left Analog"
+msgid "Emulated Pointer Deadzone Percent"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Pointer Mode for Right Analog"
+msgid "Pointer Mode for Left Analog"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Mouse/Pointer"
+msgid "Pointer Mode for Right Analog"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Emulated Stylus Pressure Modifier Percent"
+msgid "Mouse/Pointer"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Pointer Type"
+msgid "Emulated Stylus Pressure Modifier Percent"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Screen Gap"
+msgid "Pointer Type"
 msgstr ""
 
 msgctxt "#30034"
+msgid "Screen Gap"
+msgstr ""
+
+msgctxt "#30035"
 msgid "Screen Layout"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Use External BIOS/Firmware (restart)"
 msgstr ""
 
