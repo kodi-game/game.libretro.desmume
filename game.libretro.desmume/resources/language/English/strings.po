@@ -33,7 +33,7 @@ msgid "OpenGL: Color Depth (restart)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "CPU Mode"
+msgid "CPU Mode (restart)"
 msgstr ""
 
 msgctxt "#30005"
@@ -81,7 +81,7 @@ msgid "Hybrid Layout: Cursor Always on Small Screen"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Hybrid Layout: Scale (restart)"
+msgid "Hybrid Layout: Scale"
 msgstr ""
 
 msgctxt "#30017"
@@ -89,7 +89,7 @@ msgid "Hybrid Layout: Show Both Screens"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Internal Resolution (restart)"
+msgid "Internal Resolution"
 msgstr ""
 
 msgctxt "#30019"
