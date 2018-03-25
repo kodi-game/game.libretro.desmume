@@ -89,23 +89,23 @@ msgid "Hybrid Layout: Show Both Screens"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Internal Resolution"
+msgid "Pointer Rotation"
 msgstr ""
 
 msgctxt "#30019"
-msgid "JIT Block Size"
+msgid "Internal Resolution"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Load Game Into Memory (restart)"
+msgid "JIT Block Size"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Force Microphone Enable"
+msgid "Load Game Into Memory (restart)"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Microphone Simulation Settings"
+msgid "Microphone Button Noise Type"
 msgstr ""
 
 msgctxt "#30023"
