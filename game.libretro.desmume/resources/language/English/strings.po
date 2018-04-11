@@ -57,7 +57,7 @@ msgid "Soft3D: Line Hack"
 msgstr ""
 
 msgctxt "#30010"
-msgid "OpenGL: Multisampling (restart)"
+msgid "OpenGL: Multisampling AA"
 msgstr ""
 
 msgctxt "#30011"
