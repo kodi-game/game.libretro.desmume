@@ -23,5 +23,6 @@ Special thanks to: yopyop (original author of DeSmuME), for releasing the source
 Supported files: .nds, .bin</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.desmume</source>
 	</extension>
 </addon>
