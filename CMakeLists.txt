@@ -4,7 +4,7 @@ project(game.libretro.desmume)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-desmume REQUIRED)
+find_library(DESMUME_LIB NAMES desmume_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(DESMUME_CUSTOM_BINARY ${DESMUME_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
