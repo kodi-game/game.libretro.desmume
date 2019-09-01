@@ -81,85 +81,105 @@ msgid "Hybrid Layout: Cursor Always on Small Screen"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Hybrid Layout: Scale"
+msgid "Hybrid Layout: Ratio"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Hybrid Layout: Show Both Screens"
+msgid "Hybrid Layout: Scale So Small Screen is 1:1px"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Pointer Rotation"
+msgid "Hybrid Layout: Show Both Screens"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Internal Resolution"
+msgid "Pointer Rotation"
 msgstr ""
 
 msgctxt "#30020"
-msgid "JIT Block Size"
+msgid "Internal Resolution"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Load Game Into Memory (restart)"
+msgid "JIT Block Size"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Microphone Button Noise Type"
+msgid "Load Game Into Memory (restart)"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Mouse Speed"
+msgid "Microphone Button Noise Type"
 msgstr ""
 
 msgctxt "#30024"
-msgid "CPU Cores"
+msgid "Mouse Speed"
 msgstr ""
 
 msgctxt "#30025"
-msgid "OpenGL Rasterizer (restart)"
+msgid "CPU Cores"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Pointer Colour"
+msgid "OpenGL: Depth-LEqual Polygon Facing"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Emulated Pointer Acceleration Modifier Percent"
+msgid "OpenGL Rasterizer (restart)"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Emulated Pointer Deadzone Percent"
+msgid "OpenGL: NDS Depth Calculation"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Pointer Mode for Left Analog"
+msgid "OpenGL: Shadow Polygons"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Pointer Mode for Right Analog"
+msgid "OpenGL: Special 0 Alpha"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Mouse/Pointer"
+msgid "Pointer Colour"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Emulated Stylus Pressure Modifier Percent"
+msgid "Emulated Pointer Acceleration Modifier Percent"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Pointer Type"
+msgid "Emulated Pointer Deadzone Percent"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Screen Gap"
+msgid "Pointer Mode for Left Analog"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Screen Layout"
+msgid "Pointer Mode for Right Analog"
 msgstr ""
 
 msgctxt "#30036"
+msgid "Mouse/Pointer"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Emulated Stylus Pressure Modifier Percent"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Pointer Type"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Screen Gap"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Screen Layout"
+msgstr ""
+
+msgctxt "#30041"
 msgid "Use External BIOS/Firmware (restart)"
 msgstr ""
