@@ -1,1 +1,1 @@
-desmume https://github.com/libretro/desmume/archive/b20a2c3b7d30901652fb53a64f4559ff0a7954da.zip
+desmume https://github.com/libretro/desmume/archive/2ed78e2cece0bb9978fd64d37b17049ce2495c37.zip
