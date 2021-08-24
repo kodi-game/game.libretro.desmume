@@ -15,18 +15,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Special thanks to: yopyop (original author of DeSmuME), for releasing the source code of this great emulator; Martin Korth (author of GBATEK), for his well-written Gameboy Advance and Nintendo DS documentation.
-
-Supported files: .nds, .bin</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.desmume</source>
 		<summary lang="en_GB">Nintendo - DS (DeSmuME) git</summary>
-		<description lang="en_GB">DeSmuME is software that allows you to emulate a Nintendo DS system.
-
-Special thanks to: yopyop (original author of DeSmuME), for releasing the source code of this great emulator; Martin Korth (author of GBATEK), for his well-written Gameboy Advance and Nintendo DS documentation.
-
-Supported files: .nds, .bin</description>
+		<description lang="en_GB">DeSmuME is software that allows you to emulate a Nintendo DS system.[CR][CR]Special thanks to: yopyop (original author of DeSmuME), for releasing the source code of this great emulator; Martin Korth (author of GBATEK), for his well-written Gameboy Advance and Nintendo DS documentation.[CR][CR]Supported files: .nds, .bin</description>
 	</extension>
 </addon>
