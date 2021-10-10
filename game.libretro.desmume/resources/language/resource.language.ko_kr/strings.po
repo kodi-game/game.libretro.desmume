@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "DeSmuME is software that allows you to emulate a Nintendo DS system."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "설정"
