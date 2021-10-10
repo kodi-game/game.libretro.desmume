@@ -22,8 +22,8 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<disclaimer>Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)</disclaimer>
 		<summary lang="en_GB">Nintendo - DS (DeSmuME) git</summary>
 		<description lang="en_GB">DeSmuME is software that allows you to emulate a Nintendo DS system.</description>
+		<disclaimer lang="en_GB">Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)</disclaimer>
 	</extension>
 </addon>
