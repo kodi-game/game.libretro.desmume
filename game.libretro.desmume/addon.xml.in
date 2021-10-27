@@ -23,7 +23,9 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Nintendo - DS (DeSmuME) git</summary>
+		<description lang="da_DK">DeSmuME er software, der giver dig mulighed for at efterligne et Nintendo DS-system.</description>
 		<description lang="en_GB">DeSmuME is software that allows you to emulate a Nintendo DS system.</description>
+		<disclaimer lang="da_DK">Særlig tak til yopyop (oprindelig udvikler af DeSmuME) og Martin Korth (udvikler af GBATEK)</disclaimer>
 		<disclaimer lang="en_GB">Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)</disclaimer>
 	</extension>
 </addon>
