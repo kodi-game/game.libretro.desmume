@@ -23,6 +23,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Nintendo - DS (DeSmuME)</summary>
+		<summary lang="es_ES">Nintendo - DS (DeSmuME)</summary>
 		<description lang="da_DK">DeSmuME er software, der giver dig mulighed for at efterligne et Nintendo DS-system.</description>
 		<description lang="de_DE">DeSmuME ist eine Software, mit dem sich das Nintendo-DS-System emulieren lässt.</description>
 		<description lang="en_GB">DeSmuME is software that allows you to emulate a Nintendo DS system.</description>
