@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.desmume.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.desmume)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.desmume?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-desmume)
-
 # Nintendo - DS (DeSmuME)
 
 ### Description
