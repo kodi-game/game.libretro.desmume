@@ -1,1 +1,1 @@
-desmume https://github.com/libretro/desmume/archive/fbd368c8109f95650e1f81bca1facd6d4d8687d7.tar.gz
+desmume https://github.com/libretro/desmume/archive/cf0fcc6ea4a85b7491bdf9adc7bf09748b4be7da.tar.gz

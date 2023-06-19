@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.desmume"
 		name="Nintendo - DS (DeSmuME)"
-		version="0.0.1.25"
+		version="0.0.1.26"
 		provider-name="YopYop156, Zeromus">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,7 +10,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Nintendo DS</platforms>
-		<extensions>nds|bin</extensions>
+		<extensions>nds|ids|bin</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<requires_opengl>true</requires_opengl>
