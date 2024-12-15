@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Asetukset"
-
 msgctxt "#30001"
 msgid "Firmware Language"
 msgstr "Laiteohjelmiston kieli"
@@ -196,3 +192,7 @@ msgstr "Osoittimen väri"
 msgctxt "#30041"
 msgid "Microphone Button Noise Type"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Asetukset"

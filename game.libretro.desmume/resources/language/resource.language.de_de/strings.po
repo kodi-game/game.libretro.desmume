@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)"
 msgstr "Besonderen Dank an yopyop (ursprünglicher Autor von DeSmuME) und Martin Korth (Autor von GBATEK)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Firmware Language"
 msgstr "Sprache der Firmware"
@@ -196,3 +192,7 @@ msgstr "Zeigerfarbe"
 msgctxt "#30041"
 msgid "Microphone Button Noise Type"
 msgstr "Geräuschtyp Mikrofontaste"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"

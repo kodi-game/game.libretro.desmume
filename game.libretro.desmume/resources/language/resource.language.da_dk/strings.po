@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)"
 msgstr "Særlig tak til yopyop (oprindelig udvikler af DeSmuME) og Martin Korth (udvikler af GBATEK)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Firmware Language"
 msgstr "Sprog til firmware"
@@ -196,3 +192,7 @@ msgstr "Farve på pegeredskab"
 msgctxt "#30041"
 msgid "Microphone Button Noise Type"
 msgstr "Støjtype for mikrofonknap"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"

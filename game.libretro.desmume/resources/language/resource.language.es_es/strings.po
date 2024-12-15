@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)"
 msgstr "Agradecimientos especiales a yopyop (autor original de DeSmuME) y Martin Korth (autor de GBATEK)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Firmware Language"
 msgstr "Lenguaje del Firmware"
@@ -196,3 +192,7 @@ msgstr "Color del Puntero"
 msgctxt "#30041"
 msgid "Microphone Button Noise Type"
 msgstr "Tipo de Ruido del Botón del Micrófono"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
