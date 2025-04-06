@@ -25,11 +25,13 @@
 		<summary lang="da_DK">Nintendo - DS (DeSmuME)</summary>
 		<summary lang="en_GB">Nintendo - DS (DeSmuME)</summary>
 		<summary lang="es_ES">Nintendo - DS (DeSmuME)</summary>
+		<summary lang="sv_SE">Nintendo - DS (DeSmuME)</summary>
 		<summary lang="zh_CN">任天堂 - DS (DeSmuME)</summary>
 		<description lang="da_DK">DeSmuME er software, der giver dig mulighed for at efterligne et Nintendo DS-system.</description>
 		<description lang="de_DE">DeSmuME ist eine Software, mit dem sich das Nintendo-DS-System emulieren lässt.</description>
 		<description lang="en_GB">DeSmuME is software that allows you to emulate a Nintendo DS system.</description>
 		<description lang="es_ES">DeSmuME es un software que permite emular una videoconsola Nintendo DS.</description>
+		<description lang="sv_SE">DeSmuME är en programvara som gör att du kan emulera ett Nintendo DS-system.</description>
 		<description lang="zh_CN">Desmune 是一款模拟任天堂 DS 系统的软件。</description>
 		<disclaimer lang="da_DK">Særlig tak til yopyop (oprindelig udvikler af DeSmuME) og Martin Korth (udvikler af GBATEK)</disclaimer>
 		<disclaimer lang="de_DE">Besonderen Dank an yopyop (ursprünglicher Autor von DeSmuME) und Martin Korth (Autor von GBATEK)</disclaimer>
