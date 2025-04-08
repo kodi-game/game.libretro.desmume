@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.desmume\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-06 19:02+0000\n"
+"PO-Revision-Date: 2025-04-08 15:13+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-desmume/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "DeSmuME är en programvara som gör att du kan emulera ett Nintendo DS-s
 
 msgctxt "Addon Disclaimer"
 msgid "Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)"
-msgstr ""
+msgstr "Särskilt tack till yopyop (ursprunglig upphovsperson till DeSmuME) och Martin Korth (upphovsperson till GBATEK)"
 
 msgctxt "#30001"
 msgid "Firmware Language"
