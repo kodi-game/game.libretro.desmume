@@ -37,6 +37,7 @@
 		<disclaimer lang="de_DE">Besonderen Dank an yopyop (ursprünglicher Autor von DeSmuME) und Martin Korth (Autor von GBATEK)</disclaimer>
 		<disclaimer lang="en_GB">Special thanks to yopyop (original author of DeSmuME) and Martin Korth (author of GBATEK)</disclaimer>
 		<disclaimer lang="es_ES">Agradecimientos especiales a yopyop (autor original de DeSmuME) y Martin Korth (autor de GBATEK)</disclaimer>
+		<disclaimer lang="sv_SE">Särskilt tack till yopyop (ursprunglig upphovsperson till DeSmuME) och Martin Korth (upphovsperson till GBATEK)</disclaimer>
 		<disclaimer lang="zh_CN">特别感谢 yopyop（DeSmuME的原作者）和 Martin Korth（GBATEK 的作者）</disclaimer>
 	</extension>
 </addon>
