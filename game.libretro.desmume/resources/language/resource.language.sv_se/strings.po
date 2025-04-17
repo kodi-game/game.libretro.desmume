@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.desmume\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-12 12:26+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-desmume/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - DS (DeSmuME)"
@@ -42,10 +42,9 @@ msgctxt "#30003"
 msgid "Boot Into BIOS (interpreter and external bios only)"
 msgstr "Starta i BIOS (endast tolk och externt BIOS)"
 
-#, fuzzy
 msgctxt "#30004"
 msgid "Load Game Into Memory (restart)"
-msgstr "Load Game Into Memory (ladda spelet i minnet) (omstart)"
+msgstr "Läs in spelet i minnet (omstart)"
 
 msgctxt "#30005"
 msgid "CPU Cores"
@@ -65,16 +64,14 @@ msgctxt "#30008"
 msgid "Enable Advanced Bus-Level Timing"
 msgstr "Aktiverar avancerad tidsinställning på bussnivå"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Frameskip"
-msgstr "HOPPA ÖVER BILDRUTOR"
+msgstr "Hoppa över bildrutor"
 
 msgctxt "#30010"
 msgid "Internal Resolution"
 msgstr "Intern upplösning"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "OpenGL Rasterizer (restart)"
 msgstr "OpenGL Rasterizer (omstart)"
@@ -84,17 +81,14 @@ msgctxt "#30012"
 msgid "OpenGL: Color Depth (restart)"
 msgstr "OpenGL: Färgdjup (omstart)"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "OpenGL: Multisampling AA"
 msgstr "OpenGL: Multisampling AA"
 
-#, fuzzy
 msgctxt "#30014"
 msgid "OpenGL: Texture Smoothing"
 msgstr "OpenGL: Utjämning av textur"
 
-#, fuzzy
 msgctxt "#30015"
 msgid "OpenGL: Shadow Polygons"
 msgstr "OpenGL: Skuggpolygoner"
@@ -124,10 +118,9 @@ msgctxt "#30020"
 msgid "Soft3D: Line Hack"
 msgstr "Soft3D: Line Hack"
 
-#, fuzzy
 msgctxt "#30021"
 msgid "Soft3D: Texture Hack"
-msgstr "Soft3D: Hackning av texturer"
+msgstr "Soft3D: Texturhack"
 
 msgctxt "#30022"
 msgid "Edge Marking"
@@ -175,7 +168,6 @@ msgctxt "#30031"
 msgid "Mouse/Pointer"
 msgstr "Mus/Pekare"
 
-#, fuzzy
 msgctxt "#30032"
 msgid "Pointer Type"
 msgstr "Typ av pekare"
@@ -184,7 +176,6 @@ msgctxt "#30033"
 msgid "Mouse Speed"
 msgstr "Mushastighet"
 
-#, fuzzy
 msgctxt "#30034"
 msgid "Pointer Rotation"
 msgstr "Rotation av pekare"
