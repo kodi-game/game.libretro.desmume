@@ -513,6 +513,50 @@ msgctxt "#30121"
 msgid "Yellow"
 msgstr ""
 
+msgctxt "#30122"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "#30123"
+msgid "English"
+msgstr ""
+
+msgctxt "#30124"
+msgid "French"
+msgstr ""
+
+msgctxt "#30125"
+msgid "German"
+msgstr ""
+
+msgctxt "#30126"
+msgid "Italian"
+msgstr ""
+
+msgctxt "#30127"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "#30128"
+msgid "2"
+msgstr ""
+
+msgctxt "#30129"
+msgid "4"
+msgstr ""
+
+msgctxt "#30130"
+msgid "8"
+msgstr ""
+
+msgctxt "#30131"
+msgid "16"
+msgstr ""
+
+msgctxt "#30132"
+msgid "32"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Axustes"
